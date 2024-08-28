@@ -51,7 +51,7 @@ Follow these steps to compile Attabench on your own:
 1. Clone this repo to your Mac.
 
     ```
-    git clone https://github.com/attaswift/Attabench.git Attabench --recursive
+    git clone https://github.com/ammaskid/Attabenchmark.git Attabench --recursive
     cd Attabench
     ```
 
